@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pd",
+  "name": "PhotoDialogue",
+  "description": "마인크래프트 사진 & 다이얼로그 모드",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jeong // GLOUND"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
